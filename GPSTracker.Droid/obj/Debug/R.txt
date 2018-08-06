@@ -1,0 +1,29 @@
+int attr MvxBind 0x7f010000
+int attr MvxDropDownItemTemplate 0x7f010004
+int attr MvxGroupItemTemplate 0x7f010005
+int attr MvxItemTemplate 0x7f010003
+int attr MvxLang 0x7f010001
+int attr MvxTemplate 0x7f010002
+int drawable icon 0x7f020000
+int drawable splash 0x7f020001
+int id MvvmCrossTagId 0x7f040000
+int id MvxBindingTagUnique 0x7f040001
+int id textView2 0x7f040002
+int id textView4 0x7f040004
+int id txtlatitude 0x7f040003
+int id txtlong 0x7f040005
+int layout splashscreen 0x7f030000
+int layout tipview 0x7f030001
+int string ApplicationName 0x7f050001
+int string Hello 0x7f050000
+int style Theme_Splash 0x7f060000
+int[] styleable MvxBinding { 0x7f010000, 0x7f010001 }
+int styleable MvxBinding_MvxBind 0
+int styleable MvxBinding_MvxLang 1
+int[] styleable MvxControl { 0x7f010002 }
+int styleable MvxControl_MvxTemplate 0
+int[] styleable MvxExpandableListView { 0x7f010005 }
+int styleable MvxExpandableListView_MvxGroupItemTemplate 0
+int[] styleable MvxListView { 0x7f010003, 0x7f010004 }
+int styleable MvxListView_MvxDropDownItemTemplate 1
+int styleable MvxListView_MvxItemTemplate 0

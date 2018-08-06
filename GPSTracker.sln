@@ -1,0 +1,73 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.26730.12
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{D954291E-2A0B-460D-934E-DC6B0785DB48}") = "GpsServices", "GpsServices\GpsServices.shproj", "{B93E216A-9444-4CFA-8201-6DFA976165FF}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GPSTracker.Droid", "GPSTracker.Droid\GPSTracker.Droid.csproj", "{61343446-D796-4161-8185-0A19C114245D}"
+EndProject
+Global
+	GlobalSection(SharedMSBuildProjectFiles) = preSolution
+		GpsServices\GpsServices.projitems*{61343446-d796-4161-8185-0a19c114245d}*SharedItemsImports = 4
+		GpsServices\GpsServices.projitems*{b93e216a-9444-4cfa-8201-6dfa976165ff}*SharedItemsImports = 13
+	EndGlobalSection
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Debug|ARM = Debug|ARM
+		Debug|iPhone = Debug|iPhone
+		Debug|iPhoneSimulator = Debug|iPhoneSimulator
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|Any CPU = Release|Any CPU
+		Release|ARM = Release|ARM
+		Release|iPhone = Release|iPhone
+		Release|iPhoneSimulator = Release|iPhoneSimulator
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{61343446-D796-4161-8185-0A19C114245D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{61343446-D796-4161-8185-0A19C114245D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{61343446-D796-4161-8185-0A19C114245D}.Debug|Any CPU.Deploy.0 = Debug|Any CPU
+		{61343446-D796-4161-8185-0A19C114245D}.Debug|ARM.ActiveCfg = Debug|Any CPU
+		{61343446-D796-4161-8185-0A19C114245D}.Debug|ARM.Build.0 = Debug|Any CPU
+		{61343446-D796-4161-8185-0A19C114245D}.Debug|ARM.Deploy.0 = Debug|Any CPU
+		{61343446-D796-4161-8185-0A19C114245D}.Debug|iPhone.ActiveCfg = Debug|Any CPU
+		{61343446-D796-4161-8185-0A19C114245D}.Debug|iPhone.Build.0 = Debug|Any CPU
+		{61343446-D796-4161-8185-0A19C114245D}.Debug|iPhone.Deploy.0 = Debug|Any CPU
+		{61343446-D796-4161-8185-0A19C114245D}.Debug|iPhoneSimulator.ActiveCfg = Debug|Any CPU
+		{61343446-D796-4161-8185-0A19C114245D}.Debug|iPhoneSimulator.Build.0 = Debug|Any CPU
+		{61343446-D796-4161-8185-0A19C114245D}.Debug|iPhoneSimulator.Deploy.0 = Debug|Any CPU
+		{61343446-D796-4161-8185-0A19C114245D}.Debug|x64.ActiveCfg = Debug|Any CPU
+		{61343446-D796-4161-8185-0A19C114245D}.Debug|x64.Build.0 = Debug|Any CPU
+		{61343446-D796-4161-8185-0A19C114245D}.Debug|x64.Deploy.0 = Debug|Any CPU
+		{61343446-D796-4161-8185-0A19C114245D}.Debug|x86.ActiveCfg = Debug|Any CPU
+		{61343446-D796-4161-8185-0A19C114245D}.Debug|x86.Build.0 = Debug|Any CPU
+		{61343446-D796-4161-8185-0A19C114245D}.Debug|x86.Deploy.0 = Debug|Any CPU
+		{61343446-D796-4161-8185-0A19C114245D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{61343446-D796-4161-8185-0A19C114245D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{61343446-D796-4161-8185-0A19C114245D}.Release|Any CPU.Deploy.0 = Release|Any CPU
+		{61343446-D796-4161-8185-0A19C114245D}.Release|ARM.ActiveCfg = Release|Any CPU
+		{61343446-D796-4161-8185-0A19C114245D}.Release|ARM.Build.0 = Release|Any CPU
+		{61343446-D796-4161-8185-0A19C114245D}.Release|ARM.Deploy.0 = Release|Any CPU
+		{61343446-D796-4161-8185-0A19C114245D}.Release|iPhone.ActiveCfg = Release|Any CPU
+		{61343446-D796-4161-8185-0A19C114245D}.Release|iPhone.Build.0 = Release|Any CPU
+		{61343446-D796-4161-8185-0A19C114245D}.Release|iPhone.Deploy.0 = Release|Any CPU
+		{61343446-D796-4161-8185-0A19C114245D}.Release|iPhoneSimulator.ActiveCfg = Release|Any CPU
+		{61343446-D796-4161-8185-0A19C114245D}.Release|iPhoneSimulator.Build.0 = Release|Any CPU
+		{61343446-D796-4161-8185-0A19C114245D}.Release|iPhoneSimulator.Deploy.0 = Release|Any CPU
+		{61343446-D796-4161-8185-0A19C114245D}.Release|x64.ActiveCfg = Release|Any CPU
+		{61343446-D796-4161-8185-0A19C114245D}.Release|x64.Build.0 = Release|Any CPU
+		{61343446-D796-4161-8185-0A19C114245D}.Release|x64.Deploy.0 = Release|Any CPU
+		{61343446-D796-4161-8185-0A19C114245D}.Release|x86.ActiveCfg = Release|Any CPU
+		{61343446-D796-4161-8185-0A19C114245D}.Release|x86.Build.0 = Release|Any CPU
+		{61343446-D796-4161-8185-0A19C114245D}.Release|x86.Deploy.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {ED3F6152-16E8-46F2-A223-EE78D79BE969}
+	EndGlobalSection
+EndGlobal
